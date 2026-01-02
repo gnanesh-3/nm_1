@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gopinath",
+      "email": "gopi@gmail.com",
+      "age": 21
+    },
+    {
+      "id": 2,
+      "name": "Raghul",
+      "email": "raghul@gmail.com",
+      "age": 22
+    },
+    {
+      "id": 3,
+      "name": "Gokul",
+      "email": "gokul@gmail.com",
+      "age": 21
+    },
+    {
+      "id": 4,
+      "name": "Venkatesan",
+      "email": "venkatesan@gmail.com",
+      "age": 22
+    },
+    {
+      "id": 5,
+      "name": "Karthik",
+      "email": "karthik@gmail.com",
+      "age": 23
+    }
+  ]
+}
